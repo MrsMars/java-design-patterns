@@ -41,7 +41,7 @@
         <guava.version>28.1-jre</guava.version>
         <mockito.version>3.2.4</mockito.version>
         <apache-httpcomponents.version>4.5.11</apache-httpcomponents.version>
-        <htmlunit.version>2.36.0</htmlunit.version>
+        <htmlunit.version>2.37.0</htmlunit.version>
         <guice.version>4.2.2</guice.version>
         <mongo-java-driver.version>3.12.0</mongo-java-driver.version>
         <slf4j.version>2.0.0-alpha1</slf4j.version>
