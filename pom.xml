@@ -43,7 +43,7 @@
         <apache-httpcomponents.version>4.5.11</apache-httpcomponents.version>
         <htmlunit.version>2.36.0</htmlunit.version>
         <guice.version>4.2.2</guice.version>
-        <mongo-java-driver.version>3.12.0</mongo-java-driver.version>
+        <mongo-java-driver.version>3.12.8</mongo-java-driver.version>
         <slf4j.version>2.0.0-alpha1</slf4j.version>
         <logback.version>1.3.0-alpha5</logback.version>
     </properties>
