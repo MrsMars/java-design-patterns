@@ -25,7 +25,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <hibernate.version>5.2.14.Final</hibernate.version>
-        <spring.version>5.2.2.RELEASE</spring.version>
+        <spring.version>5.2.20.RELEASE</spring.version>
         <spring-boot.version>2.2.2.RELEASE</spring-boot.version>
         <spring-data.version>2.2.3.RELEASE</spring-data.version>
         <h2.version>1.4.200</h2.version>
